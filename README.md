@@ -13,10 +13,11 @@ As a curious and explorative individual, Mahisa is committed to continuously exp
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="STATA" width="30px" style="padding-right:10px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img align="left" alt="Looker Studio" width="30px" style="padding-right:10px;" src="//www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img align="left" alt="Miro" width="30px" style="padding-right:10px;" src="https://cdn.prod.website-files.com/63be620d63863b897c02c28a/657089e8b59111b28ac63a8a_MIRO-logo.png" />
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="Miro" width="30px" style="padding-right:10px;" href="https://cdn.prod.website-files.com/63be620d63863b897c02c28a/657089e8b59111b28ac63a8a_MIRO-logo.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
