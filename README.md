@@ -2,7 +2,7 @@
 
 **`Computer Science Student | Data Enthusiast`**
 
-Hi! Welcome to my Github Page👋. My name is Mahisa Naraya Sakti, but most people call me May, and I am a third-year Computer Science student at Universitas Gadjah Mada. As a curious and explorative Computer Science Student, I am committed to continuously expanding my knowledge and skills. I am a dependable and adaptable team player with a track record of effectively managing and collaborating with teams of all sizes. My work ethic and commitment to achieving results ensure that he consistently delivers high quality work
+Hi! Welcome to my Github Page👋. My name is Mahisa Naraya Sakti, but most people call me May, and I am a third-year Computer Science student at Universitas Gadjah Mada. As a curious and explorative Computer Science Student, I am committed to continuously expanding my knowledge and skills. I am a dependable and adaptable team player with a track record of effectively managing and collaborating with teams of all sizes. My work ethic and commitment to achieving results ensure that he consistently delivers high quality work.🤚🖐️
 
 
 ### 🧰 Languages and Tools
