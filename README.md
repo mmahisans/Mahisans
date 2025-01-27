@@ -27,5 +27,7 @@ As a curious and explorative individual, Mahisa is committed to continuously exp
 <h3>Universitas Gadjah Mada</h3>
 Computer Science | 2022 - Present
 
+---
+
 <h3>The University of Warwick</h3>
 Exchange Student | Global Sustainable Development | 2024 - 2025  
