@@ -4,7 +4,6 @@
 
 As a curious and explorative individual, Mahisa is committed to continuously expanding his knowledge and skills. Mahisa is a dependable and adaptable team player with a track record of effectively managing and collaborating with teams of all sizes. Mahisa’s work ethic and commitment to achieving results ensure that he consistently deliver high quality work.
 
----
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -25,9 +24,9 @@ As a curious and explorative individual, Mahisa is committed to continuously exp
 
 ### 📚 Education
 <h3>Universitas Gadjah Mada</h3>
-Computer Science | 2022 - Present
+Full-Time | Computer Science | 2022 - Present
 
----
+###
 
 <h3>The University of Warwick</h3>
 Exchange Student | Global Sustainable Development | 2024 - 2025  
