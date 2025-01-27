@@ -20,3 +20,12 @@ As a curious and explorative individual, Mahisa is committed to continuously exp
 <img align="left" alt="Miro" width="50px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idAnDTFapY/theme/dark/symbol.svg?c=1bfwsmEH20zzEfSNTed" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1bfwsmEH20zzEfSNTed" />
 <br />
+
+#
+
+### 📚 Education
+<h3>Universitas Gadjah Mada</h3>
+Computer Science | 2022 - Present
+
+<h3>The University of Warwick</h3>
+Exchange Student | Global Sustainable Development | 2024 - 2025  
